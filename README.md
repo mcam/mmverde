@@ -1,12 +1,12 @@
 # mmverde
-Maria Matos Teatro Verde
-Infografias animadas. Teatro Maria Matos. Práticas sustentáveis e ecológicas.
+Maria Matos Teatro Verde<br />
+Infografias animadas. Teatro Maria Matos. Práticas sustentáveis e ecológicas.<br />
 
 Cameira + Partners<br />
-cameira.xyz
-Março 2018
+<a href="http://cameira.xyz">cameira.xyz</a><br />
+Março 2018<br /><br />
 
 
-mariocameira@gmail.com
+mariocameira@gmail.com<br />
 
 :)
